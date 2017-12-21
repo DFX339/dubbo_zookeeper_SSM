@@ -1,0 +1,4 @@
+com\dfx\dubbo\demo_provider\dao\UserDao.class
+com\dfx\dubbo\demo_provider\main\Provider.class
+com\dfx\dubbo\demo_provider\service\impl\UserService.class
+com\dfx\dubbo\demo_provider\dao\UserDaoImpl.class
